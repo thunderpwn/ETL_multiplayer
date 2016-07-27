@@ -1,0 +1,4 @@
+new flagpole with animations
+still need new flags
+
+Q: the flag_waypoint is it new or always been there?
